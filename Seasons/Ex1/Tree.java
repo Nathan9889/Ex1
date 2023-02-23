@@ -10,6 +10,22 @@ public abstract class Tree implements Comparable, Seasonable {
 
     protected String status = "";
 
+    public int GetHeight() {
+        return height;
+    }
+
+    public void setHeight(int height) {
+        this.height = height;
+    }
+
+    public Color getLeavesColor() {
+        return leavesColor;
+    }
+
+    public void setLeavesColor(Color color) {
+        this.leavesColor = color;
+    }
+
     Tree(int height, Season season, Color leavesColor){
         this.height = height;
         this.season = season;

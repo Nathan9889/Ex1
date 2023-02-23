@@ -45,7 +45,7 @@ public abstract class Animal implements Seasonable,Comparable{
 
     @Override
     public int compareTo(Object o) {
-
+        // TODO: Implement.
         return 0;
     }
 

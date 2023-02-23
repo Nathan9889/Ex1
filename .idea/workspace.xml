@@ -4,16 +4,24 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5a652018-4614-4062-a096-3a2eae16b866" name="Changes" comment="" />
+    <list default="true" id="5a652018-4614-4062-a096-3a2eae16b866" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Seasons/Ex1/Animal.java" beforeDir="false" afterPath="$PROJECT_DIR$/Seasons/Ex1/Animal.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Seasons/Ex1/Tree.java" beforeDir="false" afterPath="$PROJECT_DIR$/Seasons/Ex1/Tree.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectId" id="2M8rvB6HWRSy2gfOwzll1oebM86" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -62,7 +70,7 @@
       <updated>1677160278090</updated>
       <workItem from="1677160279195" duration="121000" />
       <workItem from="1677160440588" duration="25000" />
-      <workItem from="1677160472965" duration="11357000" />
+      <workItem from="1677160472965" duration="11547000" />
     </task>
     <servers />
   </component>
