@@ -3,8 +3,9 @@ public class OliveTree extends Tree {
 
 
     OliveTree(int height, Season season) {
-        // TODO: Implement.
         super(0,null,null);
+        this.height = height;
+        this.season = season;
     }
 
     @Override

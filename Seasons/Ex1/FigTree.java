@@ -3,8 +3,9 @@ public class FigTree extends Tree {
 
 
     FigTree(int height, Season season) {
-        // TODO: Implement.
         super(0,null,null);
+        this.height = height;
+        this.season = season;
     }
 
 
